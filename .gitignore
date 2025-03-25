@@ -9,6 +9,9 @@ __pycache__/
 
 UP/
 Excel_file/
+src/
+html/
+out/
 
 yaml_file/
 backup_yaml_file/
